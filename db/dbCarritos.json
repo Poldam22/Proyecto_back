@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1646028659465,
+    "products": []
+  },
+  {
+    "id": 2,
+    "timestamp": 1646028664915,
+    "products": []
+  },
+  {
+    "id": 3,
+    "timestamp": 1646028665583,
+    "products": []
+  },
+  {
+    "products": [
+      {
+        "product": "leche",
+        "idprod": 1,
+        "timeStProd": 1670423935221
+      },
+      {
+        "product": "agua",
+        "idprod": 2,
+        "timeStProd": 1670423935221
+      }
+    ],
+    "id": 4,
+    "timeStamp": 1670423935221
+  },
+  {
+    "products": [
+      {
+        "product": "azucar",
+        "idprod": 1,
+        "timeStProd": 1670423974073
+      },
+      {
+        "product": "cafe",
+        "idprod": 2,
+        "timeStProd": 1670427878766
+      }
+    ],
+    "id": 5,
+    "timeStamp": 1670423974073
+  }
+]
